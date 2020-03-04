@@ -1,0 +1,3 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SAVE_TRANSACTION = "SAVE_TRANSACTION";
+export const GET_TRANSACTION = "GET_TRANSACTION";
